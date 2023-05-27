@@ -23,7 +23,12 @@ const CONFIG = {
   greetingNight: 'Go to Sleep!',
 
   // Weather
- 
+  weatherKey: '62b85223be8bc5db2fe3fe1ce5a1639e',
+  weatherIcons: 'Nord', // 'Nord', 'Dark', 'White'
+  weatherUnit: 'C', // 'F', 'C'
+  language: 'en', // More languages in https://openweathermap.org/current#multi
+  defaultLatitude: '9.577700',
+  defaultLongitude: '76.580719',
 
   // ┌─┐┌─┐┬─┐┌┬┐┌─┐
   // │  ├─┤├┬┘ ││└─┐
