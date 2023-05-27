@@ -58,7 +58,7 @@ const CONFIG = {
       id: '4',
       name: 'Anime',
       icon: 'play',
-      link: 'https://animixplay.to/',
+      link: 'https://zoro.to/',
     },
     {
       id: '5',
