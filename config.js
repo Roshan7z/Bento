@@ -50,9 +50,9 @@ const CONFIG = {
     },
     {
       id: '3',
-      name: 'Twitch',
-      icon: 'twitch',
-      link: 'https://twitch.tv',
+      name: 'Movies',
+      icon: 'film',
+      link: 'https://movies4discord.xyz/',
     },
     {
       id: '4',
@@ -68,9 +68,9 @@ const CONFIG = {
     },
     {
       id: '6',
-      name: 'WhatsApp',
+      name: 'Guilded',
       icon: 'message-circle',
-      link: 'https://web.whatsapp.com/',
+      link: 'https://www.guilded.gg/',
     },
   ],
 
