@@ -100,8 +100,8 @@ const CONFIG = {
         link: 'https://replit.com/@NotRoshan/IP-assignment#main.py',
       },
       {
-        name: 'Figma',
-        link: 'https://figma.com/',
+        name: 'Christ Uni',
+        link: 'https://kp.christuniversity.in/KnowledgePro/uniqueIdRegistration.do?method=initOnlineApplicationRegistration&gl=1',
       },
     ],
   },
