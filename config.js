@@ -91,7 +91,7 @@ const CONFIG = {
       },
       {
         name: 'Movies and Shows',
-        link: 'https://seriestv.watch/',
+        link: 'https://www.justchill.tv/home',
       },
     ],
     secondList: [
