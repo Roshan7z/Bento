@@ -27,8 +27,8 @@ const CONFIG = {
   weatherIcons: 'Nord', // 'Nord', 'Dark', 'White'
   weatherUnit: 'C', // 'F', 'C'
   language: 'en', // More languages in https://openweathermap.org/current#multi
-  defaultLatitude: '9.577700',
-  defaultLongitude: '76.580719',
+  defaultLatitude: '18.525009',
+  defaultLongitude: '73.823029',
 
   // ┌─┐┌─┐┬─┐┌┬┐┌─┐
   // │  ├─┤├┬┘ ││└─┐
