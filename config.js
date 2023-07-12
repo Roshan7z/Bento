@@ -58,7 +58,7 @@ const CONFIG = {
       id: '4',
       name: 'Anime',
       icon: 'play',
-      link: 'https://zoro.to/home',
+      link: 'https://aniwatch.to/home',
     },
     {
       id: '5',
@@ -68,9 +68,9 @@ const CONFIG = {
     },
     {
       id: '6',
-      name: 'Guilded',
+      name: 'WhatsApp',
       icon: 'message-circle',
-      link: 'https://www.guilded.gg/',
+      link: 'https://web.whatsapp.com/',
     },
   ],
 
@@ -100,8 +100,12 @@ const CONFIG = {
         link: 'https://replit.com/@NotRoshan/IP-assignment#main.py',
       },
       {
-        name: 'Christ Uni',
-        link: 'https://kp.christuniversity.in/KnowledgePro/uniqueIdRegistration.do?method=initOnlineApplicationRegistration&gl=1',
+        name: 'Time Table',
+        link: 'http://time-table.sicsr.ac.in/',
+      },
+      {
+        name: 'SICSR Mail',
+        link: 'https://mail.google.com/mail/u/3/#inbox',
       },
     ],
   },
