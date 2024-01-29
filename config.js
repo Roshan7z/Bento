@@ -105,7 +105,7 @@ const CONFIG = {
       },
       {
         name: 'SICSR Mail',
-        link: 'https://mail.google.com/mail/u/3/#inbox',
+        link: 'https://mail.google.com/mail/u/2/#inbox',
       },
     ],
   },
